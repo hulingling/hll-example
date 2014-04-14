@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="G:/我的个人资料/数据挖掘资源软件/weka/weka.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse 10/CCDM/libs/libsvm.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
